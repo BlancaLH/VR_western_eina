@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 86d2c407a9cb20e47973697d4f4db210
+  m_SerializeEntries:
+  - m_GUID: 1317265bd367bf24c8c9252ba14c8797
+    m_Address: Assets/Samples/Localization/1.4.3/Smart Strings - Persistent Variables/String
+      Table/Gender Sample Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27153e20147c06c4c8d1304d28104a87
+    m_Address: Assets/Samples/Localization/1.4.3/Smart Strings - Persistent Variables/String
+      Table/Global Variables Sample Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 190d192cdc1b2ec4c9fc6c14f3133198
+    m_Address: Assets/LocaleSettings/tables/MenuTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 93f2ab2ccfdc0944c92ad7e93a964a05
+    m_Address: Assets/LocaleSettings/tables/GameTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 260be407b52516f4895a09eb005cc846
+    m_Address: Assets/LocaleSettings/tables/GameOverTable Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 012a9d7f535ccfc409b65f8b99b02f79, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d44e48c8b7bccc34faef38c9b3a1fe7a, type: 2}
+    - {fileID: 11400000, guid: 0ac8185c960ab92418e49e8546d1fd75, type: 2}
